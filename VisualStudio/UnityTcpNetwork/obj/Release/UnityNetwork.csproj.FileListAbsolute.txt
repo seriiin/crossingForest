@@ -1,0 +1,10 @@
+H:\Work\UnityConnector\VisualStudio\UnityTcpNetwork\bin\Release\UnityNetwork.dll
+H:\Work\UnityConnector\VisualStudio\UnityTcpNetwork\bin\Release\UnityNetwork.pdb
+H:\Work\UnityConnector\VisualStudio\UnityTcpNetwork\obj\Release\UnityNetwork.dll
+H:\Work\UnityConnector\VisualStudio\UnityTcpNetwork\obj\Release\UnityNetwork.pdb
+D:\Unity\UnityWinformTcpConnector\VisualStudio\UnityTcpNetwork\bin\Release\UnityNetwork.dll
+D:\Unity\UnityWinformTcpConnector\VisualStudio\UnityTcpNetwork\bin\Release\UnityNetwork.pdb
+D:\Unity\UnityWinformTcpConnector\VisualStudio\UnityTcpNetwork\obj\Release\UnityNetwork.csprojAssemblyReference.cache
+D:\Unity\UnityWinformTcpConnector\VisualStudio\UnityTcpNetwork\obj\Release\UnityNetwork.csproj.CoreCompileInputs.cache
+D:\Unity\UnityWinformTcpConnector\VisualStudio\UnityTcpNetwork\obj\Release\UnityNetwork.dll
+D:\Unity\UnityWinformTcpConnector\VisualStudio\UnityTcpNetwork\obj\Release\UnityNetwork.pdb
