@@ -1,0 +1,5 @@
+H:\Work\UnityConnector\VisualStudio\UnityTcpNetwork\bin\Release\UnityTcpNetwork.dll
+H:\Work\UnityConnector\VisualStudio\UnityTcpNetwork\bin\Release\UnityTcpNetwork.pdb
+H:\Work\UnityConnector\VisualStudio\UnityTcpNetwork\obj\Release\UnityTcpNetwork.dll
+H:\Work\UnityConnector\VisualStudio\UnityTcpNetwork\obj\Release\UnityTcpNetwork.pdb
+H:\Work\UnityConnector\VisualStudio\UnityTcpNetwork\obj\Release\UnityTcpNetwork.csprojResolveAssemblyReference.cache
