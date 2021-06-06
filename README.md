@@ -1,2 +1,4 @@
 # crossingForest
-2021-1 Application Software Project Repository
+```
+모바일 게임 '길건너 친구들'을 모티브로 제작한 게임입니다
+```
