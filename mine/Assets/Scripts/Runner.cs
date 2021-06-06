@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using Unity.Network;
-
+using System.Collections;
 public class Runner : MonoBehaviour
 {
     private NetClient _netClient;
@@ -9,7 +9,6 @@ public class Runner : MonoBehaviour
     private string _message = "";
     private string _sendMessage = "";
     Vector2 ScrollPos;
-
     private void Awake()
     {
         _netClient = new NetClient();
@@ -24,16 +23,13 @@ public class Runner : MonoBehaviour
 
     private void Update()
     {
-        
     }
-
+    
     private void OnGUI()
-    {
-        GUILayout.BeginArea(new Rect(400, 0, 340, 90));
-
+    {   
+        GUILayout.BeginArea(new Rect(625, 0, 340, 90));
         GUILayout.TextArea(_message, GUILayout.Width(340), GUILayout.Height(40));
         _sendMessage = GUILayout.TextField(_sendMessage, GUILayout.Width(340), GUILayout.Height(20));
-
         if (GUILayout.Button("전송하기"))
         {
             if (_sendMessage.Length > 0)

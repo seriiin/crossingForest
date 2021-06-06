@@ -9,6 +9,8 @@ TagManager:
   - Enemy
   - Animal
   - Zone
+  - Player2
+  - Camera2
   layers:
   - Default
   - TransparentFX
