@@ -27,7 +27,7 @@ public class Runner : MonoBehaviour
     
     private void OnGUI()
     {   
-        GUILayout.BeginArea(new Rect(625, 0, 340, 90));
+        GUILayout.BeginArea(new Rect(900, 30, 340, 90));
         GUILayout.TextArea(_message, GUILayout.Width(340), GUILayout.Height(40));
         _sendMessage = GUILayout.TextField(_sendMessage, GUILayout.Width(340), GUILayout.Height(20));
         if (GUILayout.Button("전송하기"))
