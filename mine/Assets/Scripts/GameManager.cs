@@ -109,7 +109,7 @@ public class GameManager : MonoBehaviour
         for (int i = 0;i<30;i++)
         {
             GameObject animal = Instantiate(animals[ran], animalZones[k].position, animalZones[k].rotation);
-            yield return new WaitForSeconds(1f);
+            yield return new WaitForSeconds(1.5f);
         }
     }
 }
